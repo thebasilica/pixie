@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pixie
+  annotations:
+    github.com/project-slug: thebasilica/pixie
+spec:
+  type: other
+  lifecycle: unknown
+  owner: thebasilica
