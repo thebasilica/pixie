@@ -4,7 +4,7 @@ metadata:
   name: pixie
   annotations:
     github.com/project-slug: thebasilica/pixie
-    backstage.io/techdocs-ref: true
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
